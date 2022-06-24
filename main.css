@@ -1,0 +1,39 @@
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+}
+h1 {
+	margin: 20px 0;
+	color: red;
+}
+.blue-text {
+	color: #fff;
+	background-color: #0000ff;
+	width: 100px;
+	line-height: 1.15;
+	margin-bottom: 100px;
+}
+.red-text {
+	color: red;
+}
+h2 {
+	color: #fff;
+	background-color: green;
+	padding: 5px;
+}
+.form-title {
+	padding: 50px;
+}
+.form-text {
+	margin-left: 100px;
+}
+ul {
+	font-size: 30px;
+}
+li {
+	
+	border: 2px solid #000;
+}
+footer h2 {
+	margin-bottom: 20px;
+}
+
